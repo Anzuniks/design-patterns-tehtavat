@@ -12,7 +12,7 @@ public class Game {
         // 2. Tulostetaan kartta
         System.out.println("Map:");
         myMap.display();
-    } // <-- TÄMÄ aaltosulje sulkee main-metodin!
+    } 
 
     // Factory Method alkaa
     public Map createMap(String mapType) {
