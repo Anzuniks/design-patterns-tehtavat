@@ -1,3 +1,0 @@
-	Assignment 01: Factory method Tehty
-	Assignment 02: Abstract Factory Progress
-
